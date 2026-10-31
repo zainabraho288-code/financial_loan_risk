@@ -1,5 +1,7 @@
 ![banner](banner.png)
 
+   [View the notebook](https://nbviewer.org/github/zainabraho288-code/financial_loan_risk/blob/main/financial_loan_risk.ipynb)
+
 # Financial Loan Risk Analysis
 
 Machine learning to support loan approval decisions for FinTech Innovations, using 20,000 historical loan applications.
