@@ -94,3 +94,4 @@ Random Forest Regressor: test MAE 1.70, RMSE 2.72, R² 0.881.
 1. Install the requirements: `pip install pandas numpy matplotlib seaborn scipy scikit-learn jupyter`
 2. Put `financial_loan_data.csv` in the same folder as the notebook, and make sure the notebook's `pd.read_csv(...)` line points to it.
 3. Open `financial_loan_risk.ipynb` and run all cells.
+
