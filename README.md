@@ -24,7 +24,7 @@ A false approval costs about 6.25 times more than a false denial.
 
 | File | Description |
 |---|---|
-| `financial_loan_risk_submission.ipynb` | Full analysis: business understanding, EDA, cleaning, modelling, evaluation |
+| `financial_loan_risk.ipynb` | Full analysis: business understanding, EDA, cleaning, modelling, evaluation |
 | `financial_loan_data.csv` | Raw dataset (20,000 rows, 35 columns) |
 | `README.md` | This file |
 
